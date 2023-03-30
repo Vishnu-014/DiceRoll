@@ -12,4 +12,4 @@ npm install
 
 ## Demo
 
-![alt text](https://github.com/wishhh14/DiceRoll/blob/main/assets/Diceicon.png)
+![alt text](https://github.com/wishhh14/DiceRoll/blob/main/assets/DiceRoll.png)
